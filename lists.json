@@ -1,0 +1,17 @@
+{
+  "lists": {
+    "blood": ["en-US", "de-DE"],
+    "clown": ["en-US", "de-DE"],
+    "dentistry": ["en-US", "de-DE"],
+    "dog": ["en-US", "de-DE"],
+    "doll": ["en-US", "de-DE"],
+    "height": ["en-US", "de-DE"],
+    "needle": ["en-US", "de-DE"],
+    "small-hole": ["en-US", "de-DE"],
+    "snake": ["en-US", "de-DE"],
+    "spider": ["en-US", "de-DE"],
+    "thunder": ["en-US", "de-DE"],
+    "tight-space": ["en-US", "de-DE"],
+    "vomit": ["en-US", "de-DE"]
+  }
+}
