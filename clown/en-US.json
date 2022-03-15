@@ -1,0 +1,4 @@
+{
+  "base": ["clown","jester"],
+  "extended": ["mime","harlequin","pennywise"]
+}

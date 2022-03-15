@@ -1,0 +1,4 @@
+{
+  "base": ["doll","puppet","marionette"],
+  "extended": ["figure","figurine"]
+}

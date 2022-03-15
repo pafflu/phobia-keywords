@@ -1,0 +1,4 @@
+{
+  "base": ["blood","gore","bleed"],
+  "extended": ["clot","splat"]
+}

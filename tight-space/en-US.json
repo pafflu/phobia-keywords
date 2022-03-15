@@ -1,0 +1,4 @@
+{
+  "base": ["tight","confine","cave","hole","tunnel","claustrophobi"],
+  "extended": ["crawl","cavity"]
+}
